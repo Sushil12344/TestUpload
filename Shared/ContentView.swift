@@ -15,6 +15,8 @@ struct ContentView: View {
         //ok well what to do now..
         //abc = [10,423]
         Text("Hello w3r, world!")
+        Text("Hello w3r, world!")
+        Text("Hello w3r, world!")
     }
 }
 
@@ -23,5 +25,8 @@ struct ContentView_Previews: PreviewProvider {
         ContentView()
         //testing line
         //what why this line doesn't showed up
+        Text("Hello w3r, world!")
+        Text("Hello w3r, world!")
+        
     }
 }

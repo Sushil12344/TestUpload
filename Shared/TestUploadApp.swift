@@ -12,6 +12,8 @@ struct TestUploadApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
+            Text("Hello w3r, world!")
+            Text("Hello w3r, world!")
         }
     }
 }
