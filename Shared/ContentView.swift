@@ -8,10 +8,13 @@
 import SwiftUI
 
 struct ContentView: View {
+    var abc = [89,90]
     var body: some View {
         Text("Hello, world!")
             .padding()
         //ok well what to do now..
+        //abc = [10,423]
+        Text("Hello w3r, world!")
     }
 }
 
