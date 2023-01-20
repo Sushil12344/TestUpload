@@ -9,6 +9,7 @@ import SwiftUI
 
 struct ContentView: View {
     var abc = [89,90]
+    var heyMan = "True ok but"
     var body: some View {
         Text("Hello, world!")
             .padding()
@@ -27,6 +28,8 @@ struct ContentView_Previews: PreviewProvider {
         //what why this line doesn't showed up
         Text("Hello w3r, world!")
         Text("Hello w3r, world!")
-        
+        //wtf hey hey
+        //man
     }
 }
+//so adding new change for another commit to the same branch 001
